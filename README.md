@@ -7,7 +7,7 @@
 ## Olá pessoal 👋
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **JVA**
+ :rocket:  &nbsp; Estou trabalhando na **LINX/STONE**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
